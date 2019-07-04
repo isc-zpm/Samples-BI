@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Export generator="Cache" version="25">
+  <Document name="holefoods.module">
+    <Module>
+      <Name>holefoods</Name>
+      <Version>0.1.0</Version>
+      <ExternalName>DeepSee HoleFoods Sample</ExternalName>
+      <Author>
+        <Organization>InterSystems</Organization>
+        <CopyrightDate>2019</CopyrightDate>
+      </Author>
+      <Packaging>module</Packaging>
+      <SourcesRoot>src</SourcesRoot>
+      <Resource Name="HoleFoods.PKG" />
+      <Resource Name="BI.PKG" />
+      <Resource Name="ZipCodeData.GBL" />
+    </Module>
+  </Document>
+</Export>
